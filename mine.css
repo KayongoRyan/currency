@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(4, 240, 228);
+}
+.container{
+    width: 70%;
+    height: 50vh;
+    background-color: rgb(18, 98, 178);
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+h1,p{
+    font-family: 'poppins',sans-serif;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+.class{
+    width: 50%;
+    height: 60%;
+    background-color: #fff;
+    position: relative;
+    left: 250px;
+    top: 20px;
+   
+}
+.am{
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+    float: left;
+    margin: 50px;
+}
+.rect{
+    background-color: #c3c2c2;
+    width: 20%;
+    height: 15%;
+    position: relative;
+    bottom: 90px;
+    left: 50px;
+    margin: 20px;
+    float: left;
+
+}
+
+button{
+    position: relative;
+    /* float: left; */
+    left: 80px;
+    bottom:70px;
+    width: 25%;
+    height: 25%;
+}
